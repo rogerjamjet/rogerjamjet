@@ -9,4 +9,9 @@ public class PlayWithGitHub
 		System.out.println("editing code with Git online... how cool is that");
 
 	}
+	
+	private void someMethdToTEstPushCOfig()
+	{
+		
+	}
 }
